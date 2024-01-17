@@ -1,0 +1,80 @@
+.titulo{
+    text-align: center;
+    font-size: 30px;
+}
+#Contenedor{
+    background-color: rgba(0, 121, 158, 0.192);
+    display: flex;
+    flex-direction: row;
+}
+
+.Foto{
+    margin: 10px;
+
+}
+
+.contenido{
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.minombre{
+    text-align: center;
+    font-size: 35px;
+    padding: 10px;
+}
+
+.profession{
+    text-align: center;
+    font-size: 25px;
+}
+
+.descrip{
+    margin: 10px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+.contacto{
+    width: 200px;
+    padding: 1px 50px;
+    margin: auto;
+    background-color: rgb(236, 236, 236);
+    border-radius: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(59, 59, 59);
+    box-shadow: 3px 5px 12px rgb(104, 104, 104);
+}
+
+.contacto h2{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.cont{
+    width: 100%;
+    background-color: rgba(202, 202, 202, 0.719);
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    
+}
+
+.contacto .botons{
+    width: 100%;
+    border-radius: 4px;
+    background-color: rgb(191, 248, 255);
+    padding: 8px;
+    color: rgb(48, 48, 48);
+    margin: 16px 0; 
+    font-size: 16px;
+}
+
+
